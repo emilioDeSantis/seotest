@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>ccxxzzbvcxz</title>
-        <meta name="description" content="ccxxzzbvcxz" />
+        <meta name="google-site-verification" content="DrAT4my66xip4Uj7Bxha5EgBbQwnNMR9W-xEj3424E0" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
